@@ -1,3 +1,5 @@
+package me.snajdovski.zadaca1;
+
 import java.util.ArrayList;
 /*
 1. Да се креира листа од стрингови во која ќе се сместуваат имиња на
